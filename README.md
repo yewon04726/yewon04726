@@ -22,14 +22,14 @@
 
 ## 기술 스택
 
-[![Tech Stack](https://skillicons.dev/icons?i=c,cpp,python,js,fastapi,nodejs,nextjs,react,mysql,git,docker&perline=10)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=c,cpp,python,js,fastapi,nodejs,nextjs,react,mysql,supabase,git,docker&perline=10)](https://skillicons.dev)
 
 | 분류 | 기술 |
 | --- | --- |
 | Language | C, C++, Python, JavaScript |
 | Backend | FastAPI, Node.js |
 | Frontend / Mobile | Next.js, React |
-| DB | MySQL |
+| DB | MySQL, Supabase (PostgreSQL) |
 | Tools | Git, Docker |
 
 ---
