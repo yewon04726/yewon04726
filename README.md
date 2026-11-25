@@ -4,9 +4,8 @@
 | Category | Details |
 | --- | --- |
 | University | Sogang University |
-| Class | 실전 AI 에이전트 개발 (Decision Pulse) |
-| Academic Society | CSPC 학회 (실습실 관리 사이트 백엔드) |
-| Contest | 2026 한국관광데이터 활용 공모전 (숨트립 기획·프론트) · KB AI Challenge (백엔드·AI 구현) |
+| Academic Society | CSPC 컴퓨터공학과 학회 |
+| Contest | 2026 한국관광데이터 활용 공모전 · KB AI Challenge |
 | Certification | SQL Developer |
 
 ## 대표 프로젝트
